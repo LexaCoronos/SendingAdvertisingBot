@@ -3,4 +3,4 @@
 
 Приём онлайн платежей через интернет кассу WayForPay.
 
-https://github.com/LexaCoronos/SendingAdvertisingBot/blob/master/screen.PNG
+![screen](https://github.com/LexaCoronos/SendingAdvertisingBot/blob/master/screen.PNG)
