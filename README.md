@@ -1,5 +1,7 @@
 # ~ Telegram Bot «Sending Advertising Bot» ~
 
+![screen1](https://github.com/LexaCoronos/SendingAdvertisingBot/blob/master/img/LogoSA.png)
+
 **Краткое описание:** Telegram бот для организации автоматических рассылок постов в группы с системой платных подписок с интегрируемой интернет-кассой и приёмом онлайн платежей.  Интегрируемая касса **WayForPay**.
 
 **Категория:** Разработка ботов.
